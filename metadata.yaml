@@ -1,0 +1,29 @@
+_repo: A-Bookful-of-Girls_28538
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fuller, Anna
+    birthdate: 1853
+    deathdate: 1916
+    gutenberg_agent_id: '25199'
+    url: http://www.gutenberg.org/2009/agents/25199
+description: ''
+gutenberg_issued: '2009-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: Blythe Halliday's voyage -- Artful Madge -- The ideas of Polly --
+  Nannie's theatre party -- Olivia's sun-dial -- Bagging a grandfather.
+title: A Bookful of Girls
+url: http://www.gutenberg.org/ebooks/28538
